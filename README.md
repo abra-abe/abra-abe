@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <details>
-  GitHub Stats
+ <details>## GitHub Stats
 
-  <img align="left" alt="abra-abe GitHub Stats" src="github-readme-stats-fawn-kappa-19.vercel.app/api?username=abra-abe&show_icons=true&hide_border=true" />
-</details> -->
+(https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs)
+
+</details>
