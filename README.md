@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I'm currently working on a learning tool called john-kisomo<br>🤔 I'm looking for help with front-end development<br>🌱 I'm currently learning about AI, ML, Robotics and Front-end development<br>⚡ I like playing Chess<br>
+ 🔭 I'm currently working on a learning tool called <a href="https://john-kisomo.onrender.com">john-kisomo</a><br>🤔 I'm looking for help with front-end development<br>🌱 I'm currently learning about AI, ML, Robotics and Front-end development<br>⚡ I like playing Chess<br>
 
 
 # 💻 Tech Stack:
